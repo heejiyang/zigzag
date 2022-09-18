@@ -1,0 +1,39 @@
+:root {
+    font-family: 'Montserrat', sans-serif;
+	/*
+	font-weight: 500;
+	font-weight: 700;
+	*/
+}
+.wrapper {
+	background-color: #673399;
+}
+.portfolio {
+	display: flex;
+	background-color:aqua ;
+}
+.portfolio span {
+	font-size: 50px;
+	font-weight: 700;
+	background-color: blue;
+}
+.portfolio p {
+	font-size: 12px;
+	background-color: beige;
+}
+.list {
+	background-color: white;
+	display: block;
+	justify-content: center;
+	align-items: center;
+	text-align: left;
+}
+.Rest, .Craft, .Scrap {
+	font-size: 30px;
+	font-weight: 500;
+	color: white;
+}
+
+footer {
+	background-color: #111112;
+}
